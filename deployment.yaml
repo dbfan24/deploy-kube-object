@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: dbfan24/kaniko_test:5
+        image: dbfan24/kaniko_test:6
         ports:
         - containerPort: 8080
